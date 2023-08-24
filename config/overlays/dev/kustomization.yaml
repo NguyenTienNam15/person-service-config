@@ -12,7 +12,7 @@ commonLabels:
 images:
 - digest: sha256:3857d83ab41bcd40dafac4214097d1619acb0d41d79c39d32fe14f7605beb379
   name: quay.io/nam_nt/person-service:latest
-  newName: quay.io/namnt/person-service:v3
+  newName: quay.io/namnt/person-service:latest
 
 # generate a configmap 
 configMapGenerator:
