@@ -11,8 +11,8 @@ commonLabels:
 # replace the image tag of the container with latest
 images:
 - digest: sha256:88454fd095a00ac7843cbbd2038752de53cf2acf38ff2cd18b179ba8216999af
-  name: quay.io/nam_nt/person-service:latest
-  newName: quay.io/namnt/person-service:latest
+  name: quay.io/nam_nt/person-service
+  newName: quay.io/namnt/person-service
 
 # generate a configmap 
 configMapGenerator:
